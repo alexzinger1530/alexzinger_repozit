@@ -1,0 +1,51 @@
+Added Component: Designator=L1(IND: SDR0403)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "HelpURL"; Value = "https://www.digikey.com/product-detail/en/bourns-inc/SDR0403-3R3ML/SDR0403-3R3MLCT-ND/2127093"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Bourns"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MaxCurrent"; Value = "3A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SDR0403"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "SDR0403-3R3ML"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature"; Value = "-40...+125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±20%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TypeInductor"; Value = "Fixed inductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "3.3µH"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ValueManufacturerPartNumber"; Value = "Fixed inductor, 3.3µH, ±20%, SDR0403, 3A, -40...+125°C"; VariantName = "[No Variations]"
+Added Component: Designator=X1(CON: 6PCV-02-006)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "CommentText"; Value = ""Ðàçúåì""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CurrentMax"; Value = "25A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = "https://www.digikey.com/products/en?keywords=0533750210"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Molex"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Multichannel"; Value = "2pin"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "0533750210"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pitch"; Value = "9.53mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TypeConnector"; Value = "Connector"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ValueManufacturerPartNumber"; Value = "Connector, 2pin, 9.53mm, 300VAC, 25A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VoltageMax"; Value = "300VAC"; VariantName = "[No Variations]"
+Added Component: Designator=X2(CON: 6PCV-02-006)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "CommentText"; Value = ""Ðàçúåì""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CurrentMax"; Value = "25A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = "https://www.digikey.com/products/en?keywords=0533750210"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Molex"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Multichannel"; Value = "2pin"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "0533750210"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pitch"; Value = "9.53mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TypeConnector"; Value = "Connector"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ValueManufacturerPartNumber"; Value = "Connector, 2pin, 9.53mm, 300VAC, 25A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VoltageMax"; Value = "300VAC"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=X1-2
+Added Pin To Net: NetName=GND Pin=X2-2
+Added Net: Name=GND
+Added Pin To Net: NetName=NetC1_1 Pin=L1-2
+Added Net: Name=NetC1_1
+Added Net: Name=NetC1_2
+Added Net: Name=NetC2_2
+Added Pin To Net: NetName=NetC3_2 Pin=L1-1
+Added Pin To Net: NetName=NetC3_2 Pin=X2-1
+Added Net: Name=NetC3_2
+Added Net: Name=NetC6_2
+Added Net: Name=NetD1_5
+Added Pin To Net: NetName=NetVD1_1 Pin=X1-1
+Added Net: Name=NetVD1_1
+Added Class: Name=Page#1
